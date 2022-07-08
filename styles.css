@@ -110,6 +110,7 @@ font-size: 14px;
 line-height: 17px;
 color: var(--textPrimary);
 margin-right: 5px;
+margin-top: 5px;
 }
 .input-buttontag:hover{
     background-color: var(--primaryColor);
@@ -124,7 +125,7 @@ margin-right: 5px;
     background: var(--primaryColor);
 border-radius: 5px;
 color: var(--white);
-padding: 10px 40px;
+padding: 15px 40px;
 border: none;
 font-family: 'Roboto';
 font-weight: 500;
@@ -144,4 +145,13 @@ font-weight: 400;
 font-size: 14px;
 line-height: 18px;
 color: var(--textPrimary);
+}
+@media (max-width: 600px) {
+    body{
+        overflow-x: hidden;
+    }
+    
+    main{
+        width: 400px;
+    }
 }
