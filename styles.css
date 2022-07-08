@@ -154,4 +154,7 @@ color: var(--textPrimary);
     main{
         width: 400px;
     }
+    .main-content{
+        padding: 30px 40px;
+    }
 }
