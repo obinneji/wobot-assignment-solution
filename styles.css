@@ -1,7 +1,7 @@
 :root{
     --textPrimary: #545454;;
-    --primaryColor: #3766E8;;
-    --gray: #E0E8FC;;
+    --primaryColor: #3766E8;
+    --gray: #E0E8FC;
     --white: #ffff;
     --textSecordary: #212121;
     --placeholderColor: #A0A0A0;
@@ -124,7 +124,7 @@ margin-right: 5px;
     background: var(--primaryColor);
 border-radius: 5px;
 color: var(--white);
-padding: 10px 40px;
+padding: 15px 40px;
 border: none;
 font-family: 'Roboto';
 font-weight: 500;
