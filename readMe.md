@@ -1,4 +1,5 @@
 # Wobot Intelligience Private Limited Assignment Solution
+<<<<<<< HEAD
 
 This is the solution of the assignment for the frontend developer internship position at wobot intelligience private limited.
 The webPage is a registration form for the company.
@@ -11,6 +12,17 @@ This page was built by Chibuzor Francis Obinneji.
 
 ### Developer Details
 
+=======
+This is the solution of the assignment for the frontend developer internship position at wobot intelligience private limited. 
+The webPage is a registration form for the company.
+This page was built by Chibuzor Francis Obinneji.
+### Technologies used
+- HTML5
+- CSS3
+
+
+### Developer Details
+>>>>>>> 187f20e4a1ec1afe6a06fbfa7d8e9f38acf11c56
 - Name: Obinneji Chibuzor
 - Email: Obinnejic.gmail.com
 - [Portfolio](obinnejichibuzor.vercel.app)
