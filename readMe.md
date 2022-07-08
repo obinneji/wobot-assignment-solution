@@ -13,4 +13,4 @@ This page was built by Chibuzor Francis Obinneji.
 - [Portfolio](obinnejichibuzor.vercel.app)
 - [linkedin](https://linkedin.com/in/obinneji)
 - [Twitter](https://twitter.com/francisobinneji)
--[Github](https://github.com/obinneji)
+- [Github](https://github.com/obinneji)
